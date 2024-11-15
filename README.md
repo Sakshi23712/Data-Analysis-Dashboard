@@ -4,4 +4,4 @@ The objective of a Pizza Sales Analysis project is to analyze sales data to iden
 ## Dataset used
 -<a href ="https://github.com/Sakshi23712/Data-Analysis-Dashboard/blob/main/pizza_sales%20(1).xlsx"> Pizza Sales Data
 ## Dashboard
--<a href= "https://github.com/Sakshi23712/Data-Analysis-Dashboard/blob/main/Screenshot%202024-11-15%20140113.png">
+https://1drv.ms/i/c/d871355046a16825/EXz5gaKOQktAt_9spoP94LEBLQdW7rl1AYzbsOKxxvNh1w?e=gbW4Pp
